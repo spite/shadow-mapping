@@ -1,6 +1,5 @@
 Shadow mapping shader
 =========
----
 
 Demo: [Shadow mapping](http://www.clicktorelease.com/tmp/threejs/shadow-mapping)
 
