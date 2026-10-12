@@ -1,7 +1,7 @@
 Shadow mapping shader
 =========
 
-Demo: [Shadow mapping](http://www.clicktorelease.com/tmp/threejs/shadow-mapping)
+Demo: [Shadow mapping](https://spite.github.io/shadow-mapping/)
 
 Implementation of shadow mapping in GLSL for three.js
 
